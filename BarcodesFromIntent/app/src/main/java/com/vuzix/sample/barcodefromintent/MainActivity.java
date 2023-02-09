@@ -50,7 +50,7 @@ import com.vuzix.sdk.barcode.ScannerIntent;
  * barcode and display the encoded text to the user
  *
  * Using intents is by far the simplest way to add barcode scanning to your application. Since the
- * barcpde application is a separate activity it handles everything including permissions.
+ * barcode application is a separate activity it handles everything including permissions.
  * This leaves very little to be done by this application.
  */
 public class MainActivity extends Activity {
@@ -98,7 +98,7 @@ public class MainActivity extends Activity {
      *
      * @param requestCode int identifier you provided in startActivityForResult
      * @param resultCode int result of the scan operation
-     * @param data Intent containing a ScanResult whenver the resultCode indicates RESULT_OK
+     * @param data Intent containing a ScanResult whenever the resultCode indicates RESULT_OK
      */
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {

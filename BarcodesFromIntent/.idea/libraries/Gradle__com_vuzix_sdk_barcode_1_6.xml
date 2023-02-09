@@ -2,9 +2,11 @@
   <library name="Gradle: com.vuzix:sdk-barcode:1.6">
     <CLASSES>
       <root url="jar://$USER_HOME$/gradle-1.9/caches/modules-2/files-2.1/com.vuzix/sdk-barcode/1.6/bdec0adc266b2b7534a96f3ce95e640d470eedcb/sdk-barcode-1.6.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vuzix/sdk-barcode/1.6/bdec0adc266b2b7534a96f3ce95e640d470eedcb/sdk-barcode-1.6.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/gradle-1.9/caches/modules-2/files-2.1/com.vuzix/sdk-barcode/1.6/b510a34341cd1ea35360ea903099b7c52ff17564/sdk-barcode-1.6-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vuzix/sdk-barcode/1.6/b510a34341cd1ea35360ea903099b7c52ff17564/sdk-barcode-1.6-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES />
   </library>
